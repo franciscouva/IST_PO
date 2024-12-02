@@ -1,2 +1,2 @@
 # Object-Oriented Programming
-course @ Instituto Superior Técnico 2022/23
+course @ Instituto Superior Técnico 2023/24
